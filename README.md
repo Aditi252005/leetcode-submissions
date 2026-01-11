@@ -51,6 +51,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3798-largest-even-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Backtracking
@@ -60,9 +61,14 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
