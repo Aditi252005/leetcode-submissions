@@ -12,6 +12,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
