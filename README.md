@@ -12,6 +12,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 ## Greedy
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
