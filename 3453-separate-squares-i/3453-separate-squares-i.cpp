@@ -21,7 +21,7 @@ public:
             // bottom area till y=mid
             double ba=0.0;
             for(int i=0;i<n;i++){
-                if(squares[i][1]>=mid) continue;
+                if(squares[i][1]>mid) continue;
                 double bottom=squares[i][1];
                 double top=squares[i][1]+squares[i][2];
                 ba=ba+(squares[i][2]*max(0.0,(min(top,mid)-bottom)));
