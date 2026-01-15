@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Enumeration
