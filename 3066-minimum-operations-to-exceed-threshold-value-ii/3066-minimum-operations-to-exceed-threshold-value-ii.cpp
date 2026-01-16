@@ -7,7 +7,7 @@ public:
         for(auto num:nums) pq.push(num);
         int ans=0;
 
-        while(!pq.empty()){
+        while(!pq.empty() && pq.top()<k){
             long long a=pq.top();
             pq.pop();
             long long b=a;
