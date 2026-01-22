@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
@@ -122,5 +125,10 @@ A collection of LeetCode questions
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
