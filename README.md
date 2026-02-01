@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Math
 |  |
 | ------- |
