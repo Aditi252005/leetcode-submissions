@@ -7,7 +7,6 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]>=0){
                 v.push_back(nums[i]);
-                nums[i]=1e9;
             }
         }
 
@@ -19,7 +18,7 @@ public:
         int j=0;
 
         for(int i=0;i<n;i++){
-            if(nums[i]==1e9){
+            if(nums[i]>=0){
                 nums[i]=v[j];
                 j++;
             }
