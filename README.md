@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
