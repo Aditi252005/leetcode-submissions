@@ -143,4 +143,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
