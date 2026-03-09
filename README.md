@@ -17,6 +17,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Sorting
 |  |
