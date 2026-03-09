@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -148,10 +149,12 @@ A collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Game Theory
 |  |
@@ -180,4 +183,12 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
