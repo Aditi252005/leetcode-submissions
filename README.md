@@ -64,6 +64,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
+| [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
