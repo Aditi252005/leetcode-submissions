@@ -70,6 +70,7 @@ A collection of LeetCode questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
