@@ -36,6 +36,7 @@ A collection of LeetCode questions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/Aditi252005/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions
 ## Counting Sort
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Geometry
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
 |  |
