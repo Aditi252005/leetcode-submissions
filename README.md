@@ -68,6 +68,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
