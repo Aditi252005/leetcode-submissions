@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 ## Hash Table
@@ -237,6 +239,7 @@ A collection of LeetCode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
