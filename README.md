@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
+| [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Aditi252005/leetcode-submissions/tree/master/0687-longest-univalue-path) |
