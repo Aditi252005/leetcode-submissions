@@ -22,7 +22,7 @@ public:
             for(int j=0;j<temp.length();j++){
                 for(int i=0;i<26;i++){
                     temp[j]='a'+i;
-                    if(st.find(temp)!=st.end()) q.push({temp,steps+1});
+                    if(st.find(temp)!=st.end() && !vis.count(temp)) q.push({temp,steps+1});
                     
                 }
                 temp=curr;
