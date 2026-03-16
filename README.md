@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aditi252005/leetcode-submissions/tree/master/0198-house-robber) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 | ------- |
 | [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
