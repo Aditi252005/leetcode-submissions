@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions
 | ------- |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
