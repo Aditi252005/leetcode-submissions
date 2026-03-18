@@ -5,8 +5,9 @@ public:
         if(i>=j) return true;
         if(dp[i][j]!=-1) return dp[i][j];
 
-        if(s[i]==s[j]) return dp[i][j]=check(i+1,j-1,s,dp);
-        return dp[i][j]=false;
+        if(s[i]!=s[j]) return dp[i][j]=false;
+        return dp[i][j]=check(i+1,j-1,s,dp);
+        
     }
     int countSubstrings(string s) {
         int n=s.length();
