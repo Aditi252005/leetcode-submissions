@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
