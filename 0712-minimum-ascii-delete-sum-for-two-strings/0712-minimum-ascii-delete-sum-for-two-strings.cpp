@@ -1,29 +1,34 @@
 class Solution {
 public:
-    int f(string&s1,string&s2,int i,int j,vector<vector<int>>&dp){
-        int n=s1.length();
-        int m=s2.length();
-        if(i>n-1 && j<=m-1){
-            return accumulate(s2.begin()+j,s2.end(),0);
-        }
-        if(i<=n-1 && j>m-1){
-            return accumulate(s1.begin()+i,s1.end(),0);
-        }
-        if(i==n-1 && j==m-1){
-            if(s1[i]==s2[j]) return 0;
-            else return s1[i]+s2[j];
-        }
+    int f(int i,int j,string& s1,string& s2,vector<vector<int>>&dp){
+        int n=s1.size();
+        int m= s2.size();
+        int ans=0;
 
+        if(i>n-1){
+            for(int k=j;k<m;k++) ans+=s2[k];
+            return ans;
+        }
+        if(j>m-1){
+            for(int k=i;k<n;k++) ans+=s1[k];
+            return ans;
+        }
         if(dp[i][j]!=-1) return dp[i][j];
 
-        
-        if(s1[i]==s2[j]) return dp[i][j]=f(s1,s2,i+1,j+1,dp);
-        return dp[i][j]=min(s1[i]+f(s1,s2,i+1,j,dp),s2[j]+f(s1,s2,i,j+1,dp));
+        if(s1[i]==s2[j]) return dp[i][j]=f(i+1,j+1,s1,s2,dp);
+
+        int op1=s1[i]+f(i+1,j,s1,s2,dp);
+        int op2=s2[j]+f(i,j+1,s1,s2,dp);
+
+        return dp[i][j]=min(op1,op2);
+
     }
     int minimumDeleteSum(string s1, string s2) {
-        int n=s1.length();
-        int m=s2.length();
-        vector<vector<int>> dp(n+1,vector<int> (m+1,-1));
-        return f(s1,s2,0,0,dp);
+        int n=s1.size();
+        int m=s2.size();
+        vector<vector<int>> dp(n,vector<int>(m,-1));
+
+        return f(0,0,s1,s2,dp);
+        
     }
 };
