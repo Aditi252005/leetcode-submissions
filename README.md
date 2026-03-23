@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2140-solving-questions-with-brainpower](https://github.com/Aditi252005/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
