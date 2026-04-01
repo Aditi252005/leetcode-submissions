@@ -71,6 +71,7 @@ A collection of LeetCode questions
 | [2140-solving-questions-with-brainpower](https://github.com/Aditi252005/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -256,11 +258,13 @@ A collection of LeetCode questions
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+| [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
 |  |
