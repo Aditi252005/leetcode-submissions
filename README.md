@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
+| [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
+| [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
