@@ -22,32 +22,63 @@ public:
                 return;
             }
         }
-        
+        int nx=x,ny=y;
         while(num){
-            int nx=x,ny=y;
             if(dx==1){
-                nx=min(x+num,n-1);
-                num=num-(nx-x);
-                if(num) {dy=1;dx=0;}
+                if(x+num<=n-1){
+                    nx=x+num;
+                    num=0;
+                    break;
+                }else{ //out of bounds
+                    nx=n-1;
+                    num-=nx-x;
+                    dy=1;
+                    dx=0;
+                }
             }else if(dy==1){
-                ny=min(y+num,m-1);
-                num=num-(ny-y);
-                if(num){dy=0;dx=-1;}
+                if(y+num<=m-1){
+                   ny=y+num;
+                   num=0;
+                   break; 
+                } 
+                else{
+                    ny=m-1;
+                    num-=ny-y;
+                    dy=0;
+                    dx=-1;
+                }
             }
             else if(dx==-1){
-                nx=max(x-num,0);
-                num=num-(x-nx);
-                if(num){dy=-1;dx=0;}
+                if(x-num>=0){
+                    nx=x-num;
+                    num=0;
+                    break;
+                }
+                else{
+                    nx=0;
+                    num-=x-nx;
+                    dy=-1;
+                    dx=0;
+                }
             }
             else if(dy==-1){
-                ny=max(y-num,0);
-                num=num-(y-ny);
-                if(num){dy=0;dx=1;}
+                if(y-num>=0){
+                    ny=y-num;
+                    num=0;
+                    break;
+                }
+                else{
+                    ny=0;
+                    num-=y-ny;
+                    dy=0;
+                    dx=1;
+                }
             }
             x=nx;
             y=ny;
         }
-        
+        x=nx;
+        y=ny;
         
     }
     
