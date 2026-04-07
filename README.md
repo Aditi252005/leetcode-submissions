@@ -272,6 +272,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+| [2069-walking-robot-simulation-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Aditi252005/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+| [2069-walking-robot-simulation-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Iterator
 |  |
 | ------- |
