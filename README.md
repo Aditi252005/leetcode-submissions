@@ -82,6 +82,7 @@ A collection of LeetCode questions
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
