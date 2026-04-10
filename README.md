@@ -83,6 +83,7 @@ A collection of LeetCode questions
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
 | ------- |
