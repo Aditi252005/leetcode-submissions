@@ -9,8 +9,7 @@ public:
         for(auto x:mp){
             vector<int> v=x.second;
             if(v.size()>=3){
-                sort(v.begin(),v.end());
-                for(int i=0;i<v.size()-2;i++) ans=min(ans,abs(v[i]-v[i+1])+abs(v[i+1]-v[i+2])+abs(v[i]-v[i+2]));
+                for(int i=0;i<v.size()-2;i++) ans=min(ans,2*(v[i+2]-v[i]));
             }
         }
         if(ans==INT_MAX) return -1;
