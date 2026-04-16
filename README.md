@@ -86,6 +86,7 @@ A collection of LeetCode questions
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sliding Window
