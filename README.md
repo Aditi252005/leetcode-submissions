@@ -70,6 +70,7 @@ A collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Aditi252005/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Aditi252005/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Trie
 |  |
 | ------- |
