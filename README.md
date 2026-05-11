@@ -83,6 +83,7 @@ A collection of LeetCode questions
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditi252005/leetcode-submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [2069-walking-robot-simulation-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
