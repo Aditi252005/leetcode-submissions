@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aditi252005/leetcode-submissions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditi252005/leetcode-submissions/tree/master/2463-minimum-total-distance-traveled) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -446,5 +451,6 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
