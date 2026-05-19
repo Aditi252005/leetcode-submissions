@@ -87,6 +87,7 @@ A collection of LeetCode questions
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditi252005/leetcode-submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
@@ -345,6 +347,7 @@ A collection of LeetCode questions
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions
 | [0876-middle-of-the-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## Monotonic Stack
 |  |
 | ------- |
