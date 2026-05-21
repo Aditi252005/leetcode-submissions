@@ -97,6 +97,7 @@ A collection of LeetCode questions
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3798-largest-even-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Graph Theory
 |  |
 | ------- |
