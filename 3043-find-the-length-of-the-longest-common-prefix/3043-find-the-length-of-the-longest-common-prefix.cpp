@@ -26,7 +26,7 @@ public:
         for(int i=0;i<m;i++){
             int num=arr2[i];
             while(num){
-                if(st.find(num)!=st.end()) ans=max(ans,len(num));
+                if(st.find(num)!=st.end()) {ans=max(ans,len(num));break;}
                 num/=10;
             }
         }
