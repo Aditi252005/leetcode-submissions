@@ -42,6 +42,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
