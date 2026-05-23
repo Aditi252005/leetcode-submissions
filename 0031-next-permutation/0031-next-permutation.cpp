@@ -19,7 +19,6 @@ public:
                     k++;
                 }
                 sort(a.begin(),a.end());
-                cout<<a.size()<<a[1];
                 k=1;
                 while(k<a.size()){
                     nums[i+k]=a[k];
