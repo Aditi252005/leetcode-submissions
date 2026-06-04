@@ -141,6 +141,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
+| [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions
 | [0050-powx-n](https://github.com/Aditi252005/leetcode-submissions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
