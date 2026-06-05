@@ -16,9 +16,10 @@ public:
         }
         
         //skip
-        f(i+1,nums,v,ans);
+        int j=i+1;
+        while(j<n && nums[j]==nums[j-1]) j++;
+        f(j,nums,v,ans);
         
-
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         int n=nums.size();
