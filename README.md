@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Aditi252005/leetcode-submissions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Aditi252005/leetcode-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
