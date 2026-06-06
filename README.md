@@ -277,6 +277,7 @@ A collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aditi252005/leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Aditi252005/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
