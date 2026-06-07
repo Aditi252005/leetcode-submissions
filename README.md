@@ -80,6 +80,7 @@ A collection of LeetCode questions
 | [0485-max-consecutive-ones](https://github.com/Aditi252005/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions
 | [0225-implement-stack-using-queues](https://github.com/Aditi252005/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditi252005/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditi252005/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
