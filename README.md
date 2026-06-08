@@ -160,6 +160,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditi252005/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions
 | [0173-binary-search-tree-iterator](https://github.com/Aditi252005/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Aditi252005/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditi252005/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Queue
