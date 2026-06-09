@@ -283,6 +283,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aditi252005/leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Aditi252005/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
