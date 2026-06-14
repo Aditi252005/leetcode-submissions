@@ -61,6 +61,7 @@ A collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditi252005/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi252005/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/Aditi252005/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0205-isomorphic-strings) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
