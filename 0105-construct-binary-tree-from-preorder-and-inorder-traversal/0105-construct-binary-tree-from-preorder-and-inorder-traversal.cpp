@@ -1,21 +1,37 @@
 class Solution {
 public:
-    int idx=0;
-    TreeNode* build(vector<int>&pre,map<int,int>&mp,int st,int end){
-        if(st>end) return NULL;
-        TreeNode* root=new TreeNode(pre[idx++]);
+    TreeNode* f(TreeNode* root,int nidx,map<int,int>& mp){
+        if(!root) return NULL;
 
-        int mid=mp[root->val];
-        root->left=build(pre,mp,st,mid-1);
-        root->right=build(pre,mp,mid+1,end);
+        if(!root->left && !root->right) return root;
 
+        if(nidx < mp[root->val]){
+            if(root->left) return f(root->left,nidx,mp);
+            return root;
+        }
+
+        if(root->right) return f(root->right,nidx,mp);
         return root;
     }
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+    TreeNode* buildTree(vector<int>& pre, vector<int>& in) {
+        int n=pre.size();
         map<int,int> mp;
-        int n=inorder.size();
-        for(int i=0;i<n;i++) mp[inorder[i]]=i;
+        for(int i=0;i<n;i++) mp[in[i]]=i;
 
-        return build(preorder,mp,0,n-1);
+        TreeNode* root= new TreeNode(pre[0]);
+        int i=1;
+        while(i<n){
+            TreeNode* nnode= new TreeNode(pre[i]);
+            int nidx=mp[pre[i]];
+
+            TreeNode* par=f(root,nidx,mp);
+
+            if(nidx<mp[par->val]) par->left=nnode;
+            else par->right=nnode;
+
+            i++;            
+        }
+
+        return root;
     }
 };
