@@ -93,6 +93,7 @@ A collection of LeetCode questions
 | [0992-subarrays-with-k-different-integers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditi252005/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Aditi252005/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions
 | [0901-online-stock-span](https://github.com/Aditi252005/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditi252005/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Aditi252005/leetcode-submissions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -610,6 +615,7 @@ A collection of LeetCode questions
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
