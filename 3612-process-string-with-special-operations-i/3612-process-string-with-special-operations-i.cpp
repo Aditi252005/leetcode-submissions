@@ -5,7 +5,7 @@ public:
         string res;
 
         for(int i=0;i<n;i++){
-            if(s[i]>='a' && s[i]<='z') res=res+s[i];
+            if(s[i]>='a' && s[i]<='z') res.push_back(s[i]);
             else if(s[i]=='*' && res.length()>0)  res.pop_back();
             else if(s[i]=='#') res=res+res;
             else if(s[i]=='%') reverse(res.begin(),res.end());
