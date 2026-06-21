@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi252005/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/Aditi252005/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aditi252005/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
