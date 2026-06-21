@@ -255,6 +255,7 @@ A collection of LeetCode questions
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aditi252005/leetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -656,11 +658,13 @@ A collection of LeetCode questions
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Aditi252005/leetcode-submissions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 ## Combinatorics
 |  |
