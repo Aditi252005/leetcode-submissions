@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/Aditi252005/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/Aditi252005/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aditi252005/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
