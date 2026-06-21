@@ -1,51 +1,40 @@
 class Solution {
 public:
-    
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int n=mat.size();
         int m=mat[0].size();
+        vector<vector<int>> ans(n,vector<int>(m,1e5));
+        queue<pair<int,int>> q;
 
-        vector<vector<int>> vis(n,vector<int> (m,0));
-        vector<vector<int>> ans(n,vector<int> (m,0));
-        queue<pair<pair<int,int>,int>> q;
-       
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!mat[i][j]){
-                    q.push({{i,j},0});
-                    vis[i][j]=1;
-                }//else vis[i][j]=0;
-            }
-        }
-
-        vector<int> dr={-1,1,0,0};
-        vector<int> dc={0,0,1,-1};
-        
-        while(!q.empty()){
-            auto curr= q.front();
-            int r=curr.first.first;
-            int c=curr.first.second;
-            int steps=curr.second;
-            
-            q.pop();
-            ans[r][c]=steps;
-
-            for(int i=0;i<4;i++){
-                int nr=r+dr[i];
-                int nc=c+dc[i];
-
-                if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc]){
-                    q.push({{nr,nc},steps+1});
-                    vis[nr][nc]=1;
+                if(!mat[i][j]) {
+                    q.push({i,j});
+                    ans[i][j]=0;
                 }
             }
-           
-
         }
 
+        int dr[4]={-1,0,1,0};
+        int dc[4]={0,1,0,-1};
+
+        while(!q.empty()){
+            auto[a,b]=q.front();
+            q.pop();
+
+            for(int k=0;k<4;k++){
+                int nx=a+dr[k];
+                int ny=b+dc[k];
+                if(nx>=0 && ny>=0 && nx<n && ny<m){
+                    if(ans[nx][ny]>ans[a][b]+1){
+                        ans[nx][ny]=1+ans[a][b];
+                        q.push({nx,ny});
+                    }
+                }
+            }
+
+
+        }
         return ans;
     }
 };
-
-//1.5 chhawal
-// 1    ,2 pani,  
