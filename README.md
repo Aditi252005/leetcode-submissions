@@ -136,6 +136,7 @@ A collection of LeetCode questions
 | [2574-left-and-right-sum-differences](https://github.com/Aditi252005/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Tree
@@ -294,6 +296,7 @@ A collection of LeetCode questions
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,6 +685,7 @@ A collection of LeetCode questions
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
