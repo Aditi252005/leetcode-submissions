@@ -100,6 +100,7 @@ A collection of LeetCode questions
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditi252005/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditi252005/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/Aditi252005/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Aditi252005/leetcode-submissions/tree/master/1376-time-needed-to-inform-all-employees) |
