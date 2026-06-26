@@ -7,7 +7,6 @@ public:
             ans.push_back(v);
             return;
         }
-        cout<<i<<" "<<v.size()<<endl;
         v.push_back(i);
         for(int j=0;j<graph[i].size();j++){
             dfs(graph[i][j],graph,v,ans);
