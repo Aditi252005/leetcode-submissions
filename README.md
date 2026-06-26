@@ -297,6 +297,7 @@ A collection of LeetCode questions
 | [0743-network-delay-time](https://github.com/Aditi252005/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditi252005/leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions
 | [0743-network-delay-time](https://github.com/Aditi252005/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditi252005/leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Sorting
 |  |
@@ -725,6 +728,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/Aditi252005/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Aditi252005/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditi252005/leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aditi252005/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
