@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Counting Sort
@@ -576,6 +578,7 @@ A collection of LeetCode questions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
