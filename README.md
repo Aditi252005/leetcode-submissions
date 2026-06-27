@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditi252005/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Aditi252005/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Sorting
