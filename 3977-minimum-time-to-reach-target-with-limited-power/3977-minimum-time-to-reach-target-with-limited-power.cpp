@@ -6,7 +6,7 @@ public:
             adj[e[0]].push_back({e[1],e[2]});
         }
 
-        vector<vector<long long>> dis(n,vector<long long>(p+1,4e18));
+        vector<vector<long long>> dis(n,vector<long long>(p+1,1e18));
         dis[s][0]=0;
 
         priority_queue< tuple<long long,long long,int>, vector<tuple<long long,long long,int>>, greater<>> pq;
