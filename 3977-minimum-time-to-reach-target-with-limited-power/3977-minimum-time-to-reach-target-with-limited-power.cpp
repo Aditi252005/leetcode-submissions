@@ -12,18 +12,13 @@ public:
         priority_queue< tuple<long long,long long,int>, vector<tuple<long long,long long,int>>, greater<>> pq;
         pq.push({0,0,s});
         
-        long long bestp=LLONG_MAX;
-        long long bestt=LLONG_MAX;
         while(!pq.empty()){
             auto [t1,pused,node]=pq.top();
             pq.pop();
 
-            if (t1 > bestt) break;
 
             if (node == t) {
-                bestt = t1;
-                bestp = min(bestp, pused);
-                continue;
+               if(pused<=p) return {t1,p-pused};
             }
             
             if(pused+c[node]>p) continue;
@@ -38,7 +33,6 @@ public:
                 }
             }
         }
-        if(bestt==LLONG_MAX) return {-1,-1};
-        return {bestt,p-bestp};
+        return {-1,-1};
     }
 };
