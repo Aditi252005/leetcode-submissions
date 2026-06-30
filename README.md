@@ -418,6 +418,7 @@ A collection of LeetCode questions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditi252005/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditi252005/leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditi252005/leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions
 | [0050-powx-n](https://github.com/Aditi252005/leetcode-submissions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [1106-parsing-a-boolean-expression](https://github.com/Aditi252005/leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
