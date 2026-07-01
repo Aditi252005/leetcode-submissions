@@ -1,33 +1,5 @@
 class Solution {
 public:
-    bool check(vector<vector<int>>&grid,int v){
-        int n=grid.size();
-        if(grid[0][0]<v || grid[n-1][n-1]<v) return false;
-        
-        queue<pair<int,int>> q;
-        q.push({0,0});
-        int dr[4]={-1,0,1,0};
-        int dc[4]={0,1,0,-1};
-        vector<vector<int>> vis(n,vector<int>(n,0));
-
-        while(!q.empty()){
-            auto [i,j]=q.front();
-            q.pop();
-
-            if(i==n-1 && j==n-1) return true;
-            if(grid[i][j]<v || vis[i][j]) continue;
-            vis[i][j]=1;
-
-            for(int k=0;k<4;k++){
-                int ni=i+dr[k];
-                int nj=j+dc[k];
-                if(ni>=0 && ni<n && nj>=0 && nj<n && !vis[ni][nj]){
-                    q.push({ni,nj});
-                }
-            }
-        }
-        return false;
-    }
     int maximumSafenessFactor(vector<vector<int>>& grid) {
         int n=grid.size();
         
@@ -61,18 +33,30 @@ public:
             }
         }
        
-        int ans=0;
-        int lo=0;
-        int hi=2*n;
-        while(lo<hi){
-            int mid=lo+(hi-lo)/2;
+        priority_queue<tuple<int,int,int>> pq;
+        pq.push({grid[0][0],0,0});
+       
+        vector<vector<int>> vis(n,vector<int>(n,0));
+        vis[0][0]=1;
 
-            if(check(grid,mid)){
-                ans=mid;
-                lo=mid+1;
+        while(!pq.empty()){
+            auto [v,i,j]=pq.top();
+            pq.pop();
+
+            if(i==n-1 && j==n-1) return v;
+
+            for(int k=0;k<4;k++){
+                int ni=i+dr[k];
+                int nj=j+dc[k];
+
+                if(ni>=0 && ni<n && nj>=0 && nj<n){
+                    if(!vis[ni][nj]) {
+                        vis[ni][nj]=1;
+                        pq.push({min(v,grid[ni][nj]),ni,nj});
+                    }
+                }
             }
-            else hi=mid;
         }
-        return ans;
+        return 0;
     }
 };
