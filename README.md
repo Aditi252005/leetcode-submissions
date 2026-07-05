@@ -33,6 +33,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditi252005/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Aditi252005/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
