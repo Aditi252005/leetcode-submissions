@@ -113,6 +113,7 @@ A collection of LeetCode questions
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditi252005/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi252005/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
