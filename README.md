@@ -121,6 +121,7 @@ A collection of LeetCode questions
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-path-with-maximum-probability](https://github.com/Aditi252005/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aditi252005/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
