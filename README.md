@@ -112,6 +112,7 @@ A collection of LeetCode questions
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aditi252005/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditi252005/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aditi252005/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions
 ## Geometry
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aditi252005/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Stack
 |  |
