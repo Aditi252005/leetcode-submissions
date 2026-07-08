@@ -157,6 +157,7 @@ A collection of LeetCode questions
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi252005/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions
 | [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -845,4 +849,8 @@ A collection of LeetCode questions
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aditi252005/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Aditi252005/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
