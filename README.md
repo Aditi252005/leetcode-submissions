@@ -102,6 +102,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
