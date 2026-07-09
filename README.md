@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
+| [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aditi252005/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
+| [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -866,4 +869,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
