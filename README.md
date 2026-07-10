@@ -473,6 +473,7 @@ A collection of LeetCode questions
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/3798-largest-even-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Counting Sort
@@ -726,6 +728,7 @@ A collection of LeetCode questions
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditi252005/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
