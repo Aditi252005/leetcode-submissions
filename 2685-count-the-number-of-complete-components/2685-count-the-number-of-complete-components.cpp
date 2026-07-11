@@ -1,11 +1,12 @@
 class Solution {
 public:
-    int dfs(int i,vector<vector<int>>&adj,vector<int>&vis){
+    int dfs(int i,int& tedge,vector<vector<int>>&adj,vector<int>&vis){
         if(vis[i]) return 0;
         vis[i]=1;
         int count=0;
+        tedge+=adj[i].size();
         for(auto nbr:adj[i]){
-           count+=dfs(nbr,adj,vis);
+           count+=dfs(nbr,tedge,adj,vis);
         }
         return 1+count;
     }
@@ -21,22 +22,10 @@ public:
 
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                int tnodes=dfs(i,adj,vis);
-                queue<int> q;
-                q.push(i);
-                set<int> st;
-                bool check=true;
-                while(!q.empty()){
-                    int node=q.front();
-                    q.pop();
-
-                    if(st.count(node)) continue;
-                    st.insert(node);
-                    if(adj[node].size()!=tnodes-1) {check=false;break;}
-                    for( auto nbr:adj[node]) q.push(nbr);
-                }
-
-                if(check) ans++;
+                int tedge=0;
+                int tnodes=dfs(i,tedge,adj,vis);
+                
+                if(tedge== (tnodes*(tnodes-1))) ans++;
             }
         }
 
