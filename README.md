@@ -121,6 +121,7 @@ A collection of LeetCode questions
 | [1288-remove-covered-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi252005/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
