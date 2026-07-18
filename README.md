@@ -144,6 +144,7 @@ A collection of LeetCode questions
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditi252005/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditi252005/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
