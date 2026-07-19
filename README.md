@@ -11,6 +11,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi252005/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditi252005/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/Aditi252005/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/Aditi252005/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditi252005/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Aditi252005/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditi252005/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
