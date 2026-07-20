@@ -10,32 +10,15 @@ public:
         }
 
         k=k%v.size();
-        
-        int i=v.size()-1;
-        vector<int> c;
-        while(k){
-            c.push_back(v[i]);
-            i--;
-            k--;
-        }
-        reverse(c.begin(),c.end());
+        if(k==0) return grid;
 
-        int j=v.size()-1;
-        while(i>=0){
-            v[j]=v[i];
-            i--;
-            j--;
-        }
-        i=c.size()-1;
-        while(i>=0){
-            v[j]=c[i];
-            i--;
-            j--;
-        }
-
-        int l=0;
+        int l=v.size()-k;
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++) {grid[i][j]=v[l];l++;}
+            for(int j=0;j<m;j++) {
+                grid[i][j]=v[l];
+                l++;
+                if(l==v.size()) l=0;
+            }
         }
 
         return grid;
