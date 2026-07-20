@@ -33,6 +33,7 @@ A collection of LeetCode questions
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditi252005/leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditi252005/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditi252005/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aditi252005/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
