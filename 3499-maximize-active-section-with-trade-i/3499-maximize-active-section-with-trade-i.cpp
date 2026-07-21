@@ -11,7 +11,7 @@ public:
         while(i<n && s[i]=='1') {i++;}
 
         int z1=0;
-        int ans=count;
+        int ans=0;
         while(i<n){
            
             while(i<n && s[i]=='0') {i++;z1++;}
@@ -24,10 +24,10 @@ public:
             while(i<n && s[i]=='0') {i++;z2++;}
             if(!z2) break;
 
-            ans=max(ans,z1+count+z2);
+            ans=max(ans,z1+z2);
             z1=z2;
         }
 
-        return ans;
+        return ans+count;
     }
 };
