@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int f(int i,int k,vector<int>&p,vector<vector<int>>&dp){
-        int n=p.size();
-        if(i>n-1) return 0;
-        if(dp[i][k]!=-1) return dp[i][k];
+    int f(int i,int buy,vector<int>&prices,vector<vector<int>>&dp){
+        int n=prices.size();
+        if(i==n) return 0;
+        if(dp[i][buy]!=-1) return dp[i][buy];
 
         int op1=0;
-        if(!k) op1=-p[i]+f(i+1,1,p,dp);
-        else op1=p[i]+f(i+1,0,p,dp);
+        if(buy){
+            op1= -prices[i]+ f(i+1,0,prices,dp);
+        }
+        else{
+            op1= prices[i]+ f(i+1,1,prices,dp);
+        }
         
-        int op2= f(i+1,k,p,dp);
+        int op2= f(i+1,buy,prices,dp);
 
-        return dp[i][k]=max(op1,op2);
+        return dp[i][buy]=max(op1,op2);
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-
         vector<vector<int>> dp(n,vector<int>(2,-1));
 
-        return f(0,0,prices,dp);
+        return f(0,1,prices,dp);
     }
 };
