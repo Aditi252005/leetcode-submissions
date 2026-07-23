@@ -189,6 +189,7 @@ A collection of LeetCode questions
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/Aditi252005/leetcode-submissions/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Aditi252005/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditi252005/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions
 | [0136-single-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Data Stream
 |  |
 | ------- |
