@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int f(int i,int s,vector<int>&nums,int t,vector<vector<int>>&dp){
+    int f(int i,int t,int target,vector<int>&nums,vector<map<int,int>>&dp){
         int n=nums.size();
-        if(i==n) return s==t;
-        
-        if(dp[i][s+1000]!=-1) return dp[i][s+1000];
+        if(i==n) return t==target;
+        if(dp[i].count(t)) return dp[i][t]; 
 
-        int op1= f(i+1,s+nums[i],nums,t,dp);
-        int op2= f(i+1,s-nums[i],nums,t,dp);
+        int op1= f(i+1,t+nums[i],target,nums,dp);
+        int op2= f(i+1,t-nums[i],target,nums,dp);
 
-        return dp[i][s+1000]=op1+op2;
+        return dp[i][t]=op1+op2; 
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(2001,-1));
+        vector<map<int,int>> dp(n+1);
 
-        return f(0,0,nums,target,dp);
+        return f(0,0,target,nums,dp);
     }
 };
