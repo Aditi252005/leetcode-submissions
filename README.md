@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions
 | [0040-combination-sum-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aditi252005/leetcode-submissions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aditi252005/leetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
