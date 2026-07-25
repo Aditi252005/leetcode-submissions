@@ -117,6 +117,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
+| [0980-unique-paths-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Aditi252005/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0980-unique-paths-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Aditi252005/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditi252005/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions
 | [0216-combination-sum-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditi252005/leetcode-submissions/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0980-unique-paths-iii) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 ## Sorting
 |  |
@@ -911,6 +914,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0136-single-number) |
+| [0980-unique-paths-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
