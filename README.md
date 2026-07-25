@@ -957,4 +957,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/1668-maximum-repeating-substring) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Aditi252005/leetcode-submissions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
