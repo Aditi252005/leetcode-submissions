@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | [0518-coin-change-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Aditi252005/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Aditi252005/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Aditi252005/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Aditi252005/leetcode-submissions/tree/master/0740-delete-and-earn) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Aditi252005/leetcode-submissions/tree/master/1006-clumsy-factorial) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Aditi252005/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
