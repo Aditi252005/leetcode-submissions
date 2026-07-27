@@ -11,6 +11,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi252005/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions
 | ------- |
 | [0050-powx-n](https://github.com/Aditi252005/leetcode-submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aditi252005/leetcode-submissions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -978,4 +980,8 @@ A collection of LeetCode questions
 | [1661-average-time-of-process-per-machine](https://github.com/Aditi252005/leetcode-submissions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Aditi252005/leetcode-submissions/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/Aditi252005/leetcode-submissions/tree/master/1934-confirmation-rate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
