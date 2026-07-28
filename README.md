@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditi252005/leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aditi252005/leetcode-submissions/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Aditi252005/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/0402-remove-k-digits) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
@@ -871,6 +875,7 @@ A collection of LeetCode questions
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Graph Theory
@@ -984,4 +989,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
