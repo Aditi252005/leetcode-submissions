@@ -25,6 +25,7 @@ A collection of LeetCode questions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditi252005/leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aditi252005/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditi252005/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditi252005/leetcode-submissions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0337-house-robber-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditi252005/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditi252005/leetcode-submissions/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Aditi252005/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditi252005/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
