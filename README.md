@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditi252005/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditi252005/leetcode-submissions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditi252005/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditi252005/leetcode-submissions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Aditi252005/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Aditi252005/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
