@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Aditi252005/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0140-word-break-ii) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions
 | [0097-interleaving-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Aditi252005/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Aditi252005/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0140-word-break-ii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/Aditi252005/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditi252005/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aditi252005/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0494-target-sum) |
