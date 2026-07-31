@@ -83,6 +83,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/Aditi252005/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aditi252005/leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
