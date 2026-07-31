@@ -283,6 +283,7 @@ A collection of LeetCode questions
 | [2126-destroying-asteroids](https://github.com/Aditi252005/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditi252005/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aditi252005/leetcode-submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
@@ -734,6 +738,7 @@ A collection of LeetCode questions
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Aditi252005/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
