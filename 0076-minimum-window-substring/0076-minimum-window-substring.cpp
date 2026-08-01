@@ -2,47 +2,35 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         int n=s.length();
-        int m=t.length();
+        if(n<t.length()) return "";
 
-        map<char,int> smp,tmp;
-        for(auto ch:t) {tmp[ch]++;}
+        s.push_back('*');
+        map<char,int> mps,mpt;
+        for(auto ch:t) mpt[ch]++;
 
-        int j=0;
         int i=0;
-        int ans=INT_MAX;
-        int start;
-        while(j<n){
-            char ch=s[j];
-            if(tmp.find(ch)!=tmp.end()) smp[ch]++;
+        int j=0;
+        string ans(n+1,'z');
 
-            bool valid = true;
-            for(auto p : tmp){
-                if(smp[p.first] < p.second){
-                    valid = false;
-                    break;
-                }
-            }
-            if(valid){   
-                while(i<j){
-                    if(tmp.find(s[i])==tmp.end()) i++;
-                    else if(smp[s[i]]>tmp[s[i]]) {
-                        smp[s[i]]--;
-                        i++;
-                    }
-                    else break;
-                }
-                if(j-i+1<ans){
-                    ans=j-i+1;
-                    start=i;
-                }
-                ans=min(ans,j-i+1);
+        while(j<=n){
+            mps[s[j]]++;
+            bool check=true;
+            for(auto it:mpt){
+                if(mps[it.first]<it.second){check=false;break;}
             }
 
+            if(check){
+                while(i<j && mps[s[i]]>mpt[s[i]]){
+                    mps[s[i]]--;
+                    i++;
+                }
+                int l=j-i+1;
+                if(l<ans.length()) ans=s.substr(i,j-i+1);
+            }
             j++;
-        }
-        if(ans==INT_MAX) return "";
-        return s.substr(start,ans);
-        
+        } 
 
+        string a(n+1,'z');
+        return ans==a?"":ans;
     }
 };
