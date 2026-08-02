@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int f(TreeNode* root,int&ans){
+    int maxs=INT_MIN;
+    int f(TreeNode*root){
         if(!root) return 0;
 
-        int l=f(root->left,ans);
-        int r=f(root->right,ans);
+        int ls=f(root->left);
+        int rs=f(root->right);
 
-        ans=max({ans,root->val+l+r,root->val,root->val+max(l,r)});
+        maxs=max({maxs,root->val,root->val+ls+rs,root->val+max(ls,rs)});
 
-        return max(root->val+max(l,r),root->val);
+        return max(root->val,root->val+max(ls,rs));
     }
     int maxPathSum(TreeNode* root) {
-        int ans=INT_MIN;
-        f(root,ans);
-        return ans;
+        f(root);
+        return maxs;
     }
 };
