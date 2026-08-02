@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int f(TreeNode* root ,int& ans){
+     int d=1;
+    int f(TreeNode*root){
         if(!root) return 0;
 
-        int l=f(root->left,ans);
-        int r=f(root->right,ans);
+        int ld=f(root->left);
+        int rd=f(root->right);
 
-        ans=max(ans,l+r);
-
-        return 1+max(l,r);
+        d=max(d,ld+rd+1);
+        return 1+max(ld,rd);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        int ans=0;
-        f(root,ans);
-        return ans;
+       
+        f(root);
+        return d-1;
     }
 };
