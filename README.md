@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditi252005/leetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
+| [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1668-maximum-repeating-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/1668-maximum-repeating-substring) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
+| [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
