@@ -2,10 +2,8 @@ class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         vector<vector<int>> adj(n);
-        vector<vector<int>> ind(n);
         for(auto it:invocations){
             adj[it[0]].push_back(it[1]);
-            ind[it[1]].push_back(it[0]);
         }
 
         vector<int> susp(n,0);
