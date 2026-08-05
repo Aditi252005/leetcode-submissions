@@ -34,8 +34,7 @@ public:
 
         vector<int> ans;
         for(int i=0;i<n;i++){
-            if(!check) ans.push_back(i);
-            else if(!susp[i]) ans.push_back(i);
+            if(!check || !susp[i]) ans.push_back(i);
         }
 
         return ans;
