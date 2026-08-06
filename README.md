@@ -788,6 +788,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Aditi252005/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditi252005/leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0206-reverse-linked-list) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditi252005/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
@@ -1048,4 +1052,8 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0140-word-break-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
