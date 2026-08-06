@@ -259,6 +259,7 @@ A collection of LeetCode questions
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditi252005/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
