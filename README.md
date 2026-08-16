@@ -180,6 +180,7 @@ A collection of LeetCode questions
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aditi252005/leetcode-submissions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Aditi252005/leetcode-submissions/tree/master/2126-destroying-asteroids) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions
 | [0992-subarrays-with-k-different-integers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi252005/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2748-number-of-beautiful-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -1060,4 +1065,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
