@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& res) {
         int m=res.size();
-        map<int,set<int>> mp;
+        unordered_map<int,set<int>> mp;
         for(auto it:res) mp[it[0]].insert(it[1]);
         
 
