@@ -158,6 +158,7 @@ A collection of LeetCode questions
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/Aditi252005/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditi252005/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Aditi252005/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditi252005/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditi252005/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Aditi252005/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/Aditi252005/leetcode-submissions/tree/master/1436-destination-city) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions
 | [0090-subsets-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/0136-single-number) |
 | [0980-unique-paths-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/Aditi252005/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
