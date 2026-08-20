@@ -241,6 +241,7 @@ A collection of LeetCode questions
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aditi252005/leetcode-submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Matrix
 |  |
 | ------- |
