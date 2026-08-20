@@ -307,6 +307,7 @@ A collection of LeetCode questions
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/Aditi252005/leetcode-submissions/tree/master/4026-maximum-gap-between-stations) |
 ## Matrix
 |  |
 | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions
 | [3612-process-string-with-special-operations-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/Aditi252005/leetcode-submissions/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
+| [4026-maximum-gap-between-stations](https://github.com/Aditi252005/leetcode-submissions/tree/master/4026-maximum-gap-between-stations) |
 ## Backtracking
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4026-maximum-gap-between-stations](https://github.com/Aditi252005/leetcode-submissions/tree/master/4026-maximum-gap-between-stations) |
 ## Monotonic Stack
 |  |
 | ------- |
