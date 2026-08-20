@@ -5,12 +5,12 @@ public:
         for(int i=0;i<n;i++) time[i]=time[i]%period;
 
         int m=lights.size();
-        sort(lights.begin(),lights.end());
+        int maxi=-1;
+        for(auto it:lights) maxi=max(maxi,it);
 
         int ans=0;
         for(int i=0;i<n;i++){
-            if(time[i]<lights[m-1]) continue;
-            else ans=max(ans,period-time[i]);
+            if(time[i]>=maxi) ans=max(ans,period-time[i]);
         }
         return ans;
     }
