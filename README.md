@@ -262,6 +262,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions
 | [1833-maximum-ice-cream-bars](https://github.com/Aditi252005/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditi252005/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aditi252005/leetcode-submissions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aditi252005/leetcode-submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditi252005/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditi252005/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aditi252005/leetcode-submissions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
