@@ -61,6 +61,7 @@ A collection of LeetCode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aditi252005/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/Aditi252005/leetcode-submissions/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aditi252005/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2140-solving-questions-with-brainpower](https://github.com/Aditi252005/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditi252005/leetcode-submissions/tree/master/2463-minimum-total-distance-traveled) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditi252005/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditi252005/leetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditi252005/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Recursion
@@ -997,6 +1001,7 @@ A collection of LeetCode questions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Aditi252005/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditi252005/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1094,6 +1099,7 @@ A collection of LeetCode questions
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1102,5 +1108,6 @@ A collection of LeetCode questions
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
