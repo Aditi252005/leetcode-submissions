@@ -571,6 +571,7 @@ A collection of LeetCode questions
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Aditi252005/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditi252005/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aditi252005/leetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Aditi252005/leetcode-submissions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3206-alternating-groups-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3206-alternating-groups-i) |
 ## Heap (Priority Queue)
 |  |
