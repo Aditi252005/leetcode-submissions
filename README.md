@@ -189,6 +189,7 @@ A collection of LeetCode questions
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Aditi252005/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/Aditi252005/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditi252005/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Aditi252005/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditi252005/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
