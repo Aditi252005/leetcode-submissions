@@ -760,6 +760,7 @@ A collection of LeetCode questions
 | [0139-word-break](https://github.com/Aditi252005/leetcode-submissions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aditi252005/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditi252005/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/Aditi252005/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditi252005/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aditi252005/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditi252005/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Aditi252005/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Aditi252005/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Aditi252005/leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditi252005/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -1133,4 +1136,8 @@ A collection of LeetCode questions
 | ------- |
 | [1872-stone-game-viii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aditi252005/leetcode-submissions/tree/master/2029-stone-game-ix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aditi252005/leetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
