@@ -256,6 +256,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Aditi252005/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Aditi252005/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0556-next-greater-element-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aditi252005/leetcode-submissions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditi252005/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/Aditi252005/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditi252005/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0556-next-greater-element-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Aditi252005/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aditi252005/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditi252005/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
