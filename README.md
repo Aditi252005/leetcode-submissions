@@ -248,6 +248,7 @@ A collection of LeetCode questions
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aditi252005/leetcode-submissions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3840-house-robber-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
