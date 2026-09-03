@@ -200,6 +200,7 @@ A collection of LeetCode questions
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aditi252005/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2365-task-scheduler-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2365-task-scheduler-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditi252005/leetcode-submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aditi252005/leetcode-submissions/tree/master/2463-minimum-total-distance-traveled) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions
 | [2069-walking-robot-simulation-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditi252005/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2365-task-scheduler-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2365-task-scheduler-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Aditi252005/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aditi252005/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2365-task-scheduler-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2365-task-scheduler-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditi252005/leetcode-submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Aditi252005/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
