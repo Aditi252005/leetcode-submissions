@@ -254,6 +254,7 @@ A collection of LeetCode questions
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions
 | [2615-sum-of-distances](https://github.com/Aditi252005/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
