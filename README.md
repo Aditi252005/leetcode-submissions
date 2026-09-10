@@ -405,6 +405,7 @@ A collection of LeetCode questions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditi252005/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -450,6 +451,7 @@ A collection of LeetCode questions
 | [1905-count-sub-islands](https://github.com/Aditi252005/leetcode-submissions/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Aditi252005/leetcode-submissions/tree/master/1992-find-all-groups-of-farmland) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditi252005/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditi252005/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditi252005/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditi252005/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditi252005/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditi252005/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
