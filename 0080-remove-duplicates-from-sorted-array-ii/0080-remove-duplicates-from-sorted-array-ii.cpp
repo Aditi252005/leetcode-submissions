@@ -16,7 +16,7 @@ public:
                 }
             }
             else count=1;
-            if(i!=-1 && j<n) {cout<<i<<j<<endl;nums[i]=nums[j];i++;}
+            if(i!=-1 && j<n) {nums[i]=nums[j];i++;}
             j++;
         }
         return i==-1?n:i;
