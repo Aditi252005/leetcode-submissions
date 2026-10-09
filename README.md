@@ -121,6 +121,7 @@ A collection of LeetCode questions
 | [0216-combination-sum-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Aditi252005/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Aditi252005/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aditi252005/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions
 | ------- |
 | [0056-merge-intervals](https://github.com/Aditi252005/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditi252005/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0274-h-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Aditi252005/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Aditi252005/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Aditi252005/leetcode-submissions/tree/master/0274-h-index) |
 | [0621-task-scheduler](https://github.com/Aditi252005/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aditi252005/leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditi252005/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
