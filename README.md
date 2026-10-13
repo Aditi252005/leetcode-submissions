@@ -254,6 +254,7 @@ A collection of LeetCode questions
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditi252005/leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aditi252005/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Aditi252005/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Aditi252005/leetcode-submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aditi252005/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditi252005/leetcode-submissions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Aditi252005/leetcode-submissions/tree/master/4026-maximum-gap-between-stations) |
 ## Matrix
@@ -682,6 +684,7 @@ A collection of LeetCode questions
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditi252005/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aditi252005/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aditi252005/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Aditi252005/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3799-word-squares-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditi252005/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
