@@ -1,36 +1,36 @@
 class Solution {
 public:
-    void f(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&mp){
+    void findingParent(TreeNode*root,unordered_map<TreeNode*,TreeNode*>&parent){
         if(!root) return;
 
-        if(root->left) mp[root->left]=root;
-        if(root->right) mp[root->right]=root;
+        if(root->left) parent[root->left]=root;
+        if(root->right) parent[root->right]=root;
 
-        f(root->left,mp);
-        f(root->right,mp);
+        findingParent(root->left,parent);
+        findingParent(root->right,parent);
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*,TreeNode*> mp;
-        f(root,mp);
+        unordered_map<TreeNode*,TreeNode*> parent;
+        findingParent(root,parent);
 
         vector<int> ans;
         queue<pair<int,TreeNode*>> q;
-        q.push({0,target});
         unordered_set<TreeNode*> vis;
+        q.push({k,target});
 
         while(!q.empty()){
-            int d=q.front().first;
-            TreeNode* node=q.front().second;
+            int dis=q.front().first;
+            TreeNode* node= q.front().second;
             q.pop();
+
             if(vis.find(node)!=vis.end()) continue;
             vis.insert(node);
 
-            if(d==k) ans.push_back(node->val);
-            if(d>k) break;
+            if(dis==0) ans.push_back(node->val);
 
-            if(node->left) q.push({d+1,node->left});
-            if(node->right) q.push({d+1,node->right});
-            if(mp[node]) q.push({d+1,mp[node]});
+            if(node->left) q.push({dis-1,node->left});
+            if(node->right) q.push({dis-1,node->right});
+            if(parent[node]) q.push({dis-1,parent[node]});
         }
         return ans;
     }
