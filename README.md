@@ -631,6 +631,7 @@ A collection of LeetCode questions
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aditi252005/leetcode-submissions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aditi252005/leetcode-submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aditi252005/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aditi252005/leetcode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Aditi252005/leetcode-submissions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aditi252005/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
