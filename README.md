@@ -172,6 +172,7 @@ A collection of LeetCode questions
 | [1306-jump-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditi252005/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Aditi252005/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Aditi252005/leetcode-submissions/tree/master/1395-count-number-of-teams) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aditi252005/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aditi252005/leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Aditi252005/leetcode-submissions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aditi252005/leetcode-submissions/tree/master/1563-stone-game-v) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditi252005/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditi252005/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Aditi252005/leetcode-submissions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/Aditi252005/leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Iterator
 |  |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions
 | [0930-binary-subarrays-with-sum](https://github.com/Aditi252005/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditi252005/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditi252005/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditi252005/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditi252005/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Aditi252005/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/Aditi252005/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aditi252005/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Aditi252005/leetcode-submissions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditi252005/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Segment Tree
 |  |
 | ------- |
